@@ -1,0 +1,5 @@
+my first local file
+mid changes
+local changes
+other remote changes
+other local changes
