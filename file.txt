@@ -4,4 +4,4 @@ changes from remote
 
 changes from local
 
-more changes from remote
+more changes
