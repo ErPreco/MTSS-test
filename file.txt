@@ -1,6 +1,6 @@
 first file from local to remote
 
-changes from remote
+changes from
 
 changes from
 
